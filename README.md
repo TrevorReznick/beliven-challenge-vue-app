@@ -15,10 +15,10 @@ yarn serve
 yarn build
 ```
 
-### Demo live
-```
-https://beliven-vue-app.vercel.app/login
-[Demo Live](https://beliven-vue-app.vercel.app/login).
+### Demo live``
+
+See [Demo Live](https://beliven-vue-app.vercel.app/login).
+```ven-vue-app.vercel.app/login).
 ```
 
 ### Lints and fixes files
