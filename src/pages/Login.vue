@@ -80,7 +80,7 @@
             <h2 class="login-text">App Login</h2>
             <span class="login-text1">Inserisci le credenziali</span>
             <div class="login-container2">
-              <label class="login-text2">Email</label>              
+              <label class="login-text2">Username</label>              
               <input
                 type="email" 
                 placeholder="email"
