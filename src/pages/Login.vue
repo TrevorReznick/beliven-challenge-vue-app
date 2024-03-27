@@ -78,7 +78,7 @@
               ></path>
             </svg>
             <h2 class="login-text">App Login</h2>
-            <span class="login-text1">Inserisci le credenziali</span>
+            <span class="login-text1">Inserisci le credenziali new@example.com:123456</span>
             <div class="login-container2">
               <label class="login-text2">Username</label>              
               <input
