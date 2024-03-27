@@ -18,6 +18,7 @@ yarn build
 ### Demo live
 ```
 https://beliven-vue-app.vercel.app/login
+[Demo Live](https://beliven-vue-app.vercel.app/login).
 ```
 
 ### Lints and fixes files
