@@ -3,6 +3,7 @@ import firebase from 'firebase/compat/app';
 import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
+/*
 const config = {
   apiKey: process.env.APP_VUE_API_KEY,
   authDomain: process.env.APP_VUE_AUTHDOMAIN,
@@ -12,7 +13,7 @@ const config = {
   appId: process.env.APP_VUE_APPID,
   measurementId: process.env.APP_VUE_MEASUREMENTID
 }
-/*
+*/
 const config = {
   apiKey: "AIzaSyA1nIjX8_SlfVDMLJStBROP_wanhkbNdw4",
   authDomain: "fir-auth-3eafe.firebaseapp.com",
@@ -22,7 +23,7 @@ const config = {
   appId: "1:652983323520:web:ac1926c5b3c97eff8b4f65",
   measurementId: "G-Z424G5TCZ1"
 }
-*/
+
 
 
 const myFirebase = firebase.initializeApp(config)
