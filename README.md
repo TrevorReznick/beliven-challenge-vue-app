@@ -1,23 +1,23 @@
-# vue-hello
+# Beliven Challenge Vue App
 
 ## Project setup
 ```
-npm install
+yarn
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+yarn serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+yarn build
 ```
 
-### Run your tests
+### Demo live
 ```
-npm run test
+https://beliven-vue-app.vercel.app/login
 ```
 
 ### Lints and fixes files
