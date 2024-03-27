@@ -1,10 +1,10 @@
 # Beliven Challenge Vue App
 
-### Demo live``
+### Demo live
 
-See [Demo Live](https://beliven-vue-app.vercel.app/login).
-```ven-vue-app.vercel.app/login).
-```
+See [Demo Live](https://beliven-vue-app.vercel.app).
+
+
 
 ## Project setup
 ```
