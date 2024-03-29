@@ -6,7 +6,7 @@
         data-thq="thq-navbar"
         class="navbarContainer login-navbar-interactive"
       >
-        <span class="logo">rankup inside</span>
+        <span class="logo">electriblog</span>
         <div data-thq="thq-navbar-nav" class="login-desktop-menu">
           <nav class="login-links"></nav>
           <div class="login-buttons">
