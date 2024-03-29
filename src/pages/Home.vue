@@ -5,7 +5,7 @@
         data-thq="thq-navbar"
         class="navbarContainer home-navbar-interactive"
       >
-        <span class="logo">rankup inside</span>
+        <span class="logo">electriblog</span>
         <div data-thq="thq-navbar-nav" class="home-desktop-menu">
           <nav class="home-links"></nav>
           <div class="home-buttons">
