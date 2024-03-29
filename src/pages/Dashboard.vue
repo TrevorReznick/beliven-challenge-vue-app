@@ -5,7 +5,7 @@
         data-thq="thq-navbar"
         class="navbarContainer dashboard-navbar-interactive"
       >
-        <span class="logo">rankup inside</span>
+        <span class="logo">electriblog</span>
         <div data-thq="thq-navbar-nav" class="dashboard-desktop-menu">
           <nav class="dashboard-links"></nav>
           <div class="dashboard-buttons">
