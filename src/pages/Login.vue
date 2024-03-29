@@ -11,7 +11,7 @@
           <nav class="login-links"></nav>
           <div class="login-buttons">
             <router-link to="/"><button class="login-login buttonFlat">Home</button></router-link>
-            <router-link to="/"><button class="buttonFilled">Register</button></router-link>
+            <router-link to="/register"><button class="buttonFilled">Register</button></router-link>
           </div>
         </div>
         <div data-thq="thq-burger-menu" class="login-burger-menu">
